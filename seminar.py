@@ -41,9 +41,9 @@ def param(count: int):
 
 
 @our_cash
-@param(3)
+@param(5)
 def sum_(a, b):
     return a + b
 
 
-print(sum_(6, 4))
+print(sum_(4, 12))
